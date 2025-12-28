@@ -1,0 +1,7 @@
+{
+  "name": "Search Scout",
+  "description": "Discover high-rated local services including salons, restaurants, malls, and more using intelligent location-based search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
